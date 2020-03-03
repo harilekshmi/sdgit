@@ -1,0 +1,2 @@
+$sed `s/kernel/shell/` text.txt
+

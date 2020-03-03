@@ -1,0 +1,4 @@
+udp	17	UDP		# user datagram protocol
+idrp	45	IDRP		# Inter-Domain Routing Protocol
+skip	57	SKIP		# SKIP
+ipip	94	IPIP		# IP-within-IP Encapsulation Protocol
