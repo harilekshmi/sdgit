@@ -15,7 +15,7 @@ then
 echo "String is not palindrome"
 exit
 fi
-i=`expr $i + 1`
+i=`expr $i + 2`
 len=`expr $len - 1`
 done
 echo "String is palindrome"
